@@ -1,13 +1,13 @@
 # Energy-Consumption-Prediction-
-This project is to determine how much electricity can be consumed. 
+This project is to determine how much energy can be consumed. 
 These are the possible features being considered: 
-- Temperature
-- Humidity
-- Hour
-- Day
-- Previous Consumption
-- Number of Occupants
-- Solar Generation
-- Industrial Load
+- Production
+- Oil and Gas
+- Solar
+- Nuclear
+- Hydroelectricity
+- Wind
+- Coal
+- Biomass
   
-The target feature is the energy consumption in Kwh
+The target feature is the Energy Consumption in Kwh
