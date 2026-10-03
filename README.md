@@ -15,7 +15,6 @@ Most machine learning projects follow a similar outline, which we'll also follow
 7. Train a model.
 
 # Energy-Consumption-Prediction-
-This project is to determine how much energy can be consumed. 
 These are the possible features being considered: 
 - Production
 - Oil and Gas
